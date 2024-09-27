@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ToolUse": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TOGETHERAI_API_KEY": "231e60219ed6bcd04d4d06be9be7bc6d529d426c9b3afbcc24098d2d034a3b5b"
+      }
+    }
+  }
+}
